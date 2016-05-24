@@ -1,5 +1,7 @@
 name: Linear
 description: Linear template for Jekyll
 paginate: 5
+
 gems: [jekyll-paginate]
 
+gems: [jekyll-archives]
