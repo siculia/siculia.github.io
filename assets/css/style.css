@@ -776,6 +776,7 @@
 		background-attachment: fixed;
 		background-size: cover;
 		text-align: center;
+		letter-spacing: -0.05em;
 	}
 
 		#header:before
@@ -802,24 +803,27 @@
 		#logo h1
 		{
 			color: #FFF;
+			letter-spacing: 0.05em;
 		}
 
 		#logo a
 		{
 			display: block;
 			text-decoration: none;
-			font-weight: 300;
-			line-height: 1em;
-			font-size: 7em;
-			color: #FFF;
-			letter-spacing: -0.05em;
+			font-weight: 350;
+			line-height: 1.8em;
+			font-size: 8em;
+			color: #c1a162;
+			letter-spacing: 0.10em;
 			margin: 0 0 0.125em 0;
+			text-shadow: 1px 1px 2px black;
 		}
 
 		#logo span
 		{
-			font-size: 1.4em;
-			color: #FFF;
+			font-size: 2.0em;
+			color: #CCC;
+			text-shadow: 1px 1px 2px black;
 		}
 
 /*********************************************************************************/
@@ -867,14 +871,15 @@
 				letter-spacing: 0.006em;
 				text-decoration: none;
 				text-transform: uppercase;
-				font-size: 1.1em;
+				text-shadow: 2px 2px 3px black;
+				font-size: 1.0em;
 				outline: 0;
-				color: #FFF;
+				color: #CCC;
 			}
 
 			#nav li.active a
 			{
-				color: #FFF;
+				color: #c1a162;
 			}
 
 			#nav > ul > li > ul
