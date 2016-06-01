@@ -272,7 +272,7 @@
 	{
 		position: relative;
 		display: inline-block;
-		background: #800000;
+		background: #c1a162;
 		padding: 0.8em 2em;
 		text-decoration: none !important;
 		font-size: 1.2em;
@@ -289,7 +289,7 @@
 
 	.button:hover
 	{
-		background: #70AA7E;
+		background: #005ba1;
 		color: #FFF !important;
 	}
 
@@ -811,8 +811,8 @@
 			display: block;
 			text-decoration: none;
 			font-weight: 350;
-			line-height: 1.8em;
-			font-size: 8em;
+			line-height: 1.4em;
+			font-size: 9em;
 			color: #c1a162;
 			letter-spacing: 0.10em;
 			margin: 0 0 0.125em 0;
@@ -940,7 +940,7 @@
 	{
 		position: relative;
 		text-align: center;
-		color: #774535;
+		color: #c1a162;
 	}
 
 	#copyright .container
@@ -966,6 +966,14 @@
 		position: relative;
 		background: #f2f2f2;
 		text-align: center;
+	}
+
+	#featured .siculia-leiras
+	{
+		font-weight: 200;
+		font-size: 1.1em;
+		padding-bottom: 35px;
+		text-align: justify;
 	}
 
 	#featured h3
