@@ -277,7 +277,7 @@
 		padding: 0.8em 2em;
 		text-decoration: none !important;
 		font-size: 1.2em;
-		font-weight: 300;
+		font-weight: 400;
 		color: #FFF !important;
 		-moz-transition: color 0.35s ease-in-out, background-color 0.35s ease-in-out;
 		-webkit-transition: color 0.35s ease-in-out, background-color 0.35s ease-in-out;
@@ -985,7 +985,7 @@
 
 	#featured .pennant
 	{
-		font-size: 4em;
+		font-size: 4.5em;
 	}
 
 	#featured .button
