@@ -26,6 +26,8 @@ GEM
       sass (~> 3.4)
     jekyll-watch (1.4.0)
       listen (~> 3.0, < 3.1)
+    jekyll-youtube (1.0.0)
+      jekyll
     kramdown (1.11.1)
     liquid (3.0.6)
     listen (3.0.8)
@@ -54,6 +56,7 @@ DEPENDENCIES
   jekyll-archives
   jekyll-gist
   jekyll-paginate
+  jekyll-youtube
 
 BUNDLED WITH
    1.12.4

@@ -3,7 +3,7 @@ description: Based on Linear template for Jekyll
 paginate: 5
 
 # Gems
-gems: [jekyll-paginate, jekyll-archives, jekyll-gist]
+gems: [jekyll-paginate, jekyll-archives, jekyll-gist, jekyll-youtube]
 
 gist:
   noscript: false
