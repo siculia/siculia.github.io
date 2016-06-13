@@ -32,8 +32,8 @@
 	h1,h2,h3,h4,h5,h6
 	{
 		font-weight: 300;
-		color: #005ba1;
-		text-shadow: 1px 1px 1px #CCC;
+		color: #c1a162;
+		text-shadow: 1px 1px 1px #ddd;
 	}
 
 		h2
@@ -61,7 +61,7 @@
 	a
 	{
 		text-decoration: none;
-		color: #80BA8E;
+		color: #005ba1;
 	}
 
 	a:hover
