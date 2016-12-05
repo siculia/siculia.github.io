@@ -8,6 +8,7 @@ gem 'jekyll-paginate'
 gem 'jekyll-archives'
 gem 'jekyll-gist'
 gem 'font-awesome-sass'
+gem 'jekyll-admin', group: :jekyll_plugins
 
 group :jekyll_plugins do
   gem "jekyll-youtube"
