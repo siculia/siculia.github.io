@@ -1,7 +1,7 @@
 ---
 title: "A székely beszédről"
 layout: post
-featured: images/pic07.jpg
+featured: images/pic05.jpg
 ---
 
 Ha az ember kicsit odafigyel, rögtön felismeri a székely színészt. A beszédstílusától nem tud szabadulni. Csak ha nagyon akar. Meg lehet éppenséggel módolni, hogy ne vegyék észre, de semmi értelme. Valahogy másképpen képződnek a szavak. A székely nyelvnek van egy olyan zenéje, amit le lehet nézni, de bele is lehet szeretni.
