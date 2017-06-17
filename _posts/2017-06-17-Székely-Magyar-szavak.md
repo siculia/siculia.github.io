@@ -1,5 +1,5 @@
 ---
-title: "A székely-magyar szavak"
+title: "Székely-magyar szavak"
 featured: images/pic02.jpg
 layout: post
 ---
