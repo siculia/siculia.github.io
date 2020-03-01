@@ -8,6 +8,7 @@ gem 'jekyll-paginate'
 gem 'jekyll-archives'
 gem 'jekyll-gist'
 gem 'font-awesome-sass'
+gem "github-pages", group: :jekyll_plugins
 # gem 'jekyll-admin', group: :jekyll_plugins
 
 group :jekyll_plugins do
